@@ -1,0 +1,6 @@
+id=hide_mumu_files
+name=Hide MuMu System Files
+version=2.0
+versionCode=200
+author=哄鼠
+description=隐藏 MuMu 模拟器的所有敏感文件、目录和系统应用 APK
